@@ -33,32 +33,17 @@ PIZZA SALES SQL QUERIES.docx - SQL scripts used to extract insights and prepare 
 
 A. KPIs calculated -
 
-Total Revenue
-
-Average Order Value
-
-Total Pizzas Sold
-
-Total Orders
-
-Average Pizzas Per Order
+Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order
 
 B. Sales Trends -
 
-Daily order trends
+Daily order trends, Hourly order trends
 
-Hourly order trends
-
-C. Sales Distribution -
-
-% Sales by Pizza Category
-
-% Sales by Pizza Size
+C. Sales Distribution - % Sales by Pizza Category, % Sales by Pizza Size
 
 D. Bestsellers -
-Top 5 Best-selling Pizzas
 
-Bottom 5 Least-selling Pizzas
+Top 5 Best-selling Pizzas, Bottom 5 Least-selling Pizzas
 
 E. Dynamic Filters (in SQL & Power BI) -
 
