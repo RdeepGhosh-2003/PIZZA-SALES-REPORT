@@ -21,9 +21,7 @@ Relational Database Concepts
 
 Data Cleaning and Aggregation
 
-Repository Contents :
-
-# File	Description
+# Repository Contents :
 
 PIZZA SALES REPORT.pbix	- Power BI report containing all dashboards and visualizations
 
@@ -39,7 +37,9 @@ B. Sales Trends -
 
 Daily order trends, Hourly order trends
 
-C. Sales Distribution - % Sales by Pizza Category, % Sales by Pizza Size
+C. Sales Distribution - 
+
+% Sales by Pizza Category, % Sales by Pizza Size
 
 D. Bestsellers -
 
